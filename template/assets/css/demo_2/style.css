@@ -1822,7 +1822,7 @@
   --bs-danger: #ff0854;
   --bs-light: #f8f9fa;
   --bs-dark: #3e4b5b;
-  --bs-primary-rgb: 130, 34, 56;
+  --bs-primary-rgb: 13, 110, 253;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -3615,7 +3615,7 @@ progress {
   .tt-hint:focus {
     color: #212529;
     background-color: #fff;
-    border-color: #822338;
+    border-color: #86b7fe;
     outline: 0;
     -webkit-box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
     box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25); }
@@ -13319,7 +13319,7 @@ code {
       width: 17px;
       height: 17px;
       border-radius: 2px;
-      border: solid #822338;
+      border: solid #5e6eed;
       border-width: 2px;
       -webkit-transition: all;
       transition: all;
@@ -13342,7 +13342,7 @@ code {
       font-weight: bold;
       color: #ffffff; }
     .form-check .form-check-label input[type="checkbox"]:checked + .input-helper:before {
-      background: #822338;
+      background: #5e6eed;
       border-width: 0; }
     .form-check .form-check-label input[type="checkbox"]:checked + .input-helper:after {
       width: 18px;

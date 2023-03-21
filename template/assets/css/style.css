@@ -12316,7 +12316,7 @@ code {
       width: 17px;
       height: 17px;
       border-radius: 2px;
-      border: solid #5e6eed;
+      border: solid #822238;
       border-width: 2px;
       -webkit-transition: all;
       transition: all;
@@ -12339,7 +12339,7 @@ code {
       font-weight: bold;
       color: #ffffff; }
     .form-check .form-check-label input[type="checkbox"]:checked + .input-helper:before {
-      background: #5e6eed;
+      background: #822238;
       border-width: 0; }
     .form-check .form-check-label input[type="checkbox"]:checked + .input-helper:after {
       width: 18px;
